@@ -11,7 +11,7 @@
    "total_recovers": 331001,
    "active_cases": 14399
 },
- },
+},
  {
      "date": "02-Apr-21",
 "summary": {
@@ -31,9 +31,9 @@
    "total_deaths": 1286,
    "new_deaths": 3,
    "total_recovers": 333892,
-   "active_cases": 14432
-}, 
+   "active_cases": 14432}, 
 },
+    
  {
      "date": "04-Apr-21",
   "summary": {
@@ -78,6 +78,7 @@
    "active_cases": 14097
  },
 },
+    
  {
    "date": "08-Apr-21",
 "summary": {
@@ -100,6 +101,7 @@
    "active_cases": 14805
 }, 
 },
+    
  {
     "date": "10-Apr-21",
  "summary": {
@@ -111,6 +113,7 @@
    "active_cases": 15059
  },
 },
+    
  {
      "date": "11-Apr-21",
   "summary": {
