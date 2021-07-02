@@ -2,7 +2,7 @@
   "success": true,
   "data" : [
  {
-      "date": "01-Apr-21",
+      "day": "2021-04-1",
    "summary": {
 "total_cases": 346678,
    "new_cases": 1178,
@@ -14,7 +14,7 @@
 },
  
     {
-     "date": "02-Apr-21",
+     "day": "2021-04-2",
 "summary": {
    "total_cases": 347972,
    "new_cases": 1294,
@@ -22,10 +22,10 @@
    "new_deaths": 5,
    "total_recovers": 332443,
    "active_cases": 14246
-},
+}
  },
  {
-     "date": "03-Apr-21",
+     "day": "2021-04-3",
   "summary": {
  "total_cases": 349610,
    "new_cases": 1638,
@@ -37,7 +37,7 @@
 },
     
  {
-     "date": "04-Apr-21",
+     "day": "2021-04-4",
   "summary": {
  "total_cases": 350959,
    "new_cases": 1349,
@@ -45,10 +45,10 @@
    "new_deaths": 2,
    "total_recovers": 335162,
    "active_cases": 14509
-}, 
+}
 },
  {
-     "date": "05-Apr-21",
+     "day": "2021-04-5",
   "summary": {
  "total_cases": 352029,
    "new_cases": 1070,
@@ -60,7 +60,7 @@
  },
  
     {
-     "date": "06-Apr-21",
+     "day": "2021-04-6",
   "summary": {
  "total_cases": 353329,
    "new_cases": 1300,
@@ -68,10 +68,11 @@
    "new_deaths": 5,
    "total_recovers": 337868,
    "active_cases": 14161
-}, 
+}
 },
+    
  {
-     "date": "07-Apr-21",
+     "day": "2021-04-7",
   "summary": {
  "total_cases": 354468,
    "new_cases": 1139,
@@ -83,7 +84,7 @@
 },
         
  {
-   "date": "08-Apr-21",
+   "day": "2021-04-8",
 "summary": {
    "total_cases": 355753,
    "new_cases": 1285,
@@ -91,10 +92,11 @@
    "new_deaths": 4,
    "total_recovers": 340242,
    "active_cases": 14203
- },
+ }
 },
+    
  {
-   "date": "09-Apr-21",
+   "day": "2021-04-9",
    "summary": {
 "total_cases": 357607,
    "new_cases": 1854,
@@ -106,7 +108,7 @@
 },
     
  {
-    "date": "10-Apr-21",
+    "day": "2021-04-10",
  "summary": {
   "total_cases": 359117,
    "new_cases": 1510,
@@ -118,7 +120,7 @@
  },
     
  {
-     "date": "11-Apr-21",
+     "day": "2021-04-11",
   "summary": {
  "total_cases": 360856,
    "new_cases": 1739,
