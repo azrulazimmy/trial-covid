@@ -1,3 +1,6 @@
+{
+  "success": true,
+  "data":
 [
  {
    "n": 1,
@@ -5229,3 +5232,4 @@
    "active_cases": 62027
  }
 ]
+}
