@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "data" : [
+ {
+      "date": "01-Apr-21",
+   "summary": {
+"total_cases": 346678,
+   "new_cases": 1178,
+   "total_deaths": 1278,
+   "new_deaths": 6,
+   "total_recovers": 331001,
+   "active_cases": 14399}
+},
+ },
+ {
+     "date": "02-Apr-21",
+"summary": {
+   "total_cases": 347972,
+   "new_cases": 1294,
+   "total_deaths": 1283,
+   "new_deaths": 5,
+   "total_recovers": 332443,
+   "active_cases": 14246
+},
+ },
+ {
+     "date": "03-Apr-21",
+  "summary": {
+ "total_cases": 349610,
+   "new_cases": 1638,
+   "total_deaths": 1286,
+   "new_deaths": 3,
+   "total_recovers": 333892,
+   "active_cases": 14432
+}, 
+},
+ {
+     "date": "04-Apr-21",
+  "summary": {
+ "total_cases": 350959,
+   "new_cases": 1349,
+   "total_deaths": 1288,
+   "new_deaths": 2,
+   "total_recovers": 335162,
+   "active_cases": 14509
+}, 
+},
+ {
+     "date": "05-Apr-21",
+  "summary": {
+ "total_cases": 352029,
+   "new_cases": 1070,
+   "total_deaths": 1295,
+   "new_deaths": 7,
+   "total_recovers": 336456,
+   "active_cases": 14278
+},
+ },
+ {
+     "date": "06-Apr-21",
+  "summary": {
+ "total_cases": 353329,
+   "new_cases": 1300,
+   "total_deaths": 1300,
+   "new_deaths": 5,
+   "total_recovers": 337868,
+   "active_cases": 14161
+}, 
+},
+ {
+     "date": "07-Apr-21",
+  "summary": {
+ "total_cases": 354468,
+   "new_cases": 1139,
+   "total_deaths": 1304,
+   "new_deaths": 4,
+   "total_recovers": 339067,
+   "active_cases": 14097
+ },
+},
+ {
+   "date": "08-Apr-21",
+"summary": {
+   "total_cases": 355753,
+   "new_cases": 1285,
+   "total_deaths": 1308,
+   "new_deaths": 4,
+   "total_recovers": 340242,
+   "active_cases": 14203
+ },
+},
+ {
+   "date": "09-Apr-21",
+   "summary": {
+"total_cases": 357607,
+   "new_cases": 1854,
+   "total_deaths": 1313,
+   "new_deaths": 5,
+   "total_recovers": 341489,
+   "active_cases": 14805
+}, 
+},
+ {
+    "date": "10-Apr-21",
+ "summary": {
+  "total_cases": 359117,
+   "new_cases": 1510,
+   "total_deaths": 1321,
+   "new_deaths": 8,
+   "total_recovers": 342737,
+   "active_cases": 15059
+ },
+},
+ {
+     "date": "11-Apr-21",
+  "summary": {
+ "total_cases": 360856,
+   "new_cases": 1739,
+   "total_deaths": 1329,
+   "new_deaths": 8,
+   "total_recovers": 343953,
+   "active_cases": 15574
+ },
+}
+ 
+]
